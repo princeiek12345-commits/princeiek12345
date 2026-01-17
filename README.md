@@ -13,20 +13,20 @@ HTML5, CSS, TailwindCSS, JavaScript, TypeScript, React, Vue.js, Angular
 
 ------
 
-#🧠 Backend:
+# 🧠 Backend:
 
 Node.js, Express, Python, PHP, REST APIs
 Databases: MySQL, PostgreSQL, Monogo DB
 
 -------
 
-#🤖 Hardware / IoT:
+# 🤖 Hardware / IoT:
 
 Arduino, ESP32, C/C++, Embedded C, Sensors, Motor Control, Circuit Design
 
 ------
 
-#🛠️ Tools:
+# 🛠️ Tools:
 
 Git, Linux, AWS, Figma, Postman 
 
